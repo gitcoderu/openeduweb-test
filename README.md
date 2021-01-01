@@ -1,3 +1,0 @@
-# openeduweb-test
-
-test
